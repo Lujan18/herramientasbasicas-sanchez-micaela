@@ -106,6 +106,9 @@ pip install pandas numpy matplotlib seaborn plotly
 
  En este punto podemos determinar que los factores que son determinantes para el rendimiento academico son, casi en su totalidad, factores puramente manejados por los mismos estudiantes, ya que no encontramos factores externos que afecten de alguna manera a su puntuación.
 
+ ## Enlaces 
+ - 
+
  ## Referencias
  - Pandas development team. (2024). *pandas: powerful Python data analisys toolkit*. http://pandas.pydata.org/docs/
  - Hunter , J. D.(2007). Matplotlib: A 2D graphics environment. *Computing in Science & Engineering* , 9(3), 90-95. http://,atplotlib.org/stable/cite.html

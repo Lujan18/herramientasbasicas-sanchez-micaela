@@ -40,7 +40,7 @@
 
  En esta fuente de datos se conserva y maneja informacion sobre un determinado grupo estudiantil, donde se observan claves fundamentales para el entendimiento de las caracteristicas del rendimiento academico de los grupos estudiantiles.
  
-## Listado de herramientas utiilzadas 
+## Listado de herramientas utililzadas 
 
 * Python( Pandas,Numpy)
 * Google Colab
@@ -61,13 +61,13 @@ pip install pandas numpy matplotlib seaborn plotly
 
 ## Resultados Principales:
 
- Luego de realizar el analisis correspondiente con funciones y graficos, llegamos a la conclucion de que no hay ningun factor común mas allá de las horas de estudio dedicadas por cada estudiante, ya que solo este fator demuestra una leve importancia para el rendimiendo academico. 
+ Luego de realizar el analisis correspondiente con funciones y graficos, llegamos a la conclusion de que no hay ningun factor común mas allá de las horas de estudio dedicadas por cada estudiante, ya que solo este fator demuestra una leve importancia para el rendimiendo academico. 
 
  No se vio ninguna relación entre el rendimiento de los estudiantes para con la edad, el género, el nivel de asistencia o nivel educativo de los padres y el rendimiento final, solo cierta correlación con las horas de estudio dedicadas por cada estudiante y sus notas finales.
  
 ## Visualizacion en Power BI
 
- Una vez que obtuvimos un archivo limpio y apto, proseguimos con la realizacion de un dashboard en Power BI
+ Una vez que obtuvimos un archivo limpio y apto, proseguimos con la realización de un dashboard en Power BI
  
  Vista de graficos
  
@@ -107,4 +107,8 @@ pip install pandas numpy matplotlib seaborn plotly
  En este punto podemos determinar que los factores que son determinantes para el rendimiento academico son, casi en su totalidad, factores puramente manejados por los mismos estudiantes, ya que no encontramos factores externos que afecten de alguna manera a su puntuación.
 
 # Autor:
-## Micaela Sanchez** . https://www.utn.edu.ar/es/ (Link de la institucion estudiantil) . https://www.linkedin.com/in/micaela-luj%C3%A1n-sanchez-7bb69a336 (Link del perfil de Linkedin)
+Micaela Sanchez
+
+https://www.utn.edu.ar/es/ [Link de la institucion estudiantil]
+
+https://www.linkedin.com/in/micaela-luj%C3%A1n-sanchez-7bb69a336 [Link del perfil de Linkedin]

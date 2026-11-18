@@ -108,6 +108,7 @@ pip install pandas numpy matplotlib seaborn plotly
 
  ## Enlaces 
  - 
+ - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/data/processed/datos_estudiantes_limpio.csv [Dataset limpio]
 
  ## Referencias
  - Pandas development team. (2024). *pandas: powerful Python data analisys toolkit*. http://pandas.pydata.org/docs/

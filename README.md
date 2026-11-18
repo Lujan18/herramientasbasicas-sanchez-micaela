@@ -109,7 +109,8 @@ pip install pandas numpy matplotlib seaborn plotly
  ## Enlaces 
  - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/data/raw/datos_estudiantes_id_csv [Dataset original (CSV)]
  - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/data/processed/datos_estudiantes_limpio.csv [Dataset limpio(CSV)]
- - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/notebooks/EDA_estudiantes.ipynb [Notebook EDA]
+ - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/notebooks/EDA_estudiantes.ipynb [Notebook EDA (.ipnb)]
+ - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/dashboard/graficas%20de%20analisis%20sobre%20datos%20estdiantiles.pbix [Dashboar (.pbix)
  - 
 
  ## Referencias

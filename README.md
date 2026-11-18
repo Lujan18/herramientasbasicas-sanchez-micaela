@@ -111,7 +111,7 @@ pip install pandas numpy matplotlib seaborn plotly
  - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/data/processed/datos_estudiantes_limpio.csv [Dataset limpio(CSV)]
  - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/notebooks/EDA_estudiantes.ipynb [Notebook EDA (.ipnb)]
  - https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/dashboard/graficas%20de%20analisis%20sobre%20datos%20estdiantiles.pbix [Dashboar (.pbix)
- - 
+ - *https://github.com/Lujan18/herramientasbasicas-sanchez-micaela/blob/main/dashboard/graficas%20de%20analisis%20sobre%20datos%20estdiantiles.pdf** [Dashboard (PDF)]
 
  ## Referencias
  - Pandas development team. (2024). *pandas: powerful Python data analisys toolkit*. http://pandas.pydata.org/docs/

@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib seaborn plotly
 
  Una vez que obtuvimos un archivo limpio y apto, proseguimos con la realización de un dashboard en Power BI
  
- Vista de graficos
+ Vista de graficos:
  
 <img width="399" height="233" alt="image" src="https://github.com/user-attachments/assets/250bc394-8321-4e96-a07a-20f42601c988" />
 <img width="429" height="224" alt="image" src="https://github.com/user-attachments/assets/eca62ba1-dfec-41bd-9536-e7abe0ffcdda" />
@@ -105,6 +105,15 @@ pip install pandas numpy matplotlib seaborn plotly
 ## Entonces, que se puede entender con estos datos?
 
  En este punto podemos determinar que los factores que son determinantes para el rendimiento academico son, casi en su totalidad, factores puramente manejados por los mismos estudiantes, ya que no encontramos factores externos que afecten de alguna manera a su puntuación.
+
+ ## Referencias
+ - Pandas development team. (2024). *pandas: powerful Python data analisys toolkit*. http://pandas.pydata.org/docs/
+ - Hunter , J. D.(2007). Matplotlib: A 2D graphics environment. *Computing in Science & Engineering* , 9(3), 90-95. http://,atplotlib.org/stable/cite.html
+ - Waskom, M. (2021). seaborn: statistical data visualization. *Journal of Open Source Software* , 6(60), 3021. https://seaborn.pydata.org/citing.html
+ - Google. *Google Colaboratory*. https://colab.research.google.com/
+ - Microsoft. *Power BI documentation*. https://learn.microfoft.com/power-bi/
+ - Dataset: Elaboración propia con Python (2026). Sin fuente externa
+ - Imágenes: Capturas propias del dashboard en Power BI (2026).
 
 # Autor:
 Micaela Sanchez

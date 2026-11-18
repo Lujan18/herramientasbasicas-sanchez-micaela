@@ -1,5 +1,6 @@
 # Análisis del rendimiento académico de estudiantes
-**Proyecto Final**.**Autor: ** Micaela Sanchez.**Curso: **Herramientas básicas para el análisis de datos.**Cohorte: **2026
+
+**Proyecto Final**. **Autor:** Micaela Sanchez. **Curso:** Herramientas básicas para el análisis de datos. **Cohorte:** 2026
 ## Introducción
 
  Este proyecto lleva a cabo un profundo análisis sobre los factores que pueden ser determinantes para el rendimiento académico. Dicho analisis se lleva a cabo utilizando Python, Google Colab con realizaciones de visualizaciones con gráficos en Power BI.
@@ -14,13 +15,13 @@
  
 ## ¿Que buscamos en este analisis?
 
--Buscamos Encontrar factores determinantes para el rendimiento academico
+- Buscamos Encontrar factores determinantes para el rendimiento academico
  
--Analizar diferencias academicas entre generos y edades
+- Analizar diferencias academicas entre generos y edades
  
--Ver la influencia a nivel academico del nivel educativo de los padres
+- Ver la influencia a nivel academico del nivel educativo de los padres
 
--Determinar si las horas de estudio son determinantes
+- Determinar si las horas de estudio son determinantes
  
 ## Fuente de los datos utilizados 
 
@@ -52,11 +53,10 @@
   Como resultado obtuvumos un Notebook limpio y estructurado, en formato csv para poder proseguir con la visualizacion en Power BI teniendo en cuenta los graficos que realizamos anteriormente en Google Colab con sus librerias de graficos.
 ## ¿Como ejecutar el proyecto?
 
-Clonar Repositorio: 
+* Clonar Repositorio: 
 git clone https://github.com/Lujan18/Analisis_Estudiantiles.git
 
-Instalar librerias:
-
+* Instalar librerias:
 pip install pandas numpy matplotlib seaborn plotly
 
 ## Resultados Principales:
@@ -82,21 +82,21 @@ pip install pandas numpy matplotlib seaborn plotly
 
  En estos graficos podemos observar la relacion de distintas variantes para con la calificacion final de los estudiantes, en las mismas no se presenta algun tipo de factor que pueda ser determinante para con el rendimiento de los estudiantes, pero si hemos logrado visualizar en conjunto con el analisis anterior es que las horas de estudio si pueden afectar al resultado final.
 
-## Grafico 1: Calificacion según asistencia y género
+## Gráfico 1: Calificacion según asistencia y género
 
  Se puede observar con total claridad en promedio de calificación de los estudiantes segun el nivel de asistencia y el género de los mismos, los datos demuestran un nivel muy parejo de calificación entre estas variables
 
-## Grfico 2: Calificación según nivel educativo de los padres
+## Gráfico 2: Calificación según nivel educativo de los padres
  
- Aqui vemos el promedio de calificacion de los estudiantes segun el nivel educativo de los padres, se muestran una pequeña diferencia segun la educacion de los padres de nivel secundario y de posgrado, pero nada a nivel relevante.
+ Aqui vemos el promedio de calificacion de los estudiantes segun el nivel educativo de los padres, se muestran una pequeña diferencia segun la educación de los padres de nivel secundario y de posgrado, pero nada a nivel relevante.
 
-## Grafico 3: Calificación según edad y genero
+## Gráfico 3: Calificación según edad y genero
  
  En este grafico se analiza el promedio de calificacion final según la edad y el género, donde vemos que las mujeres de 16 años mantienen su promedio por arriba del de los hombres pero la situacion cambia al ver que los hombres entre 17 y 18 años mantienen un promedio mas alto, de igual manera no se observan grandes diferencias.
  
-## Grafico 4: Horas de estudio y calificación según asistencia
+## Gráfico 4: Horas de estudio y calificación según asistencia
 
- En este ultimo grafico vemos el promedio de horas de estudio y el promedio de calificacion final segun el tipo de asistencia, donde vemos que los estudiantes con un promedio de casi 110 horas mantienen su promedio en 70 puntos, y los estudiantes con un promedio de casi 115 horas de estudio se mantiene el 73 puntos.
+ En este ultimo grafico vemos el promedio de horas de estudio y el promedio de calificación final según el tipo de asistencia, donde vemos que los estudiantes con un promedio de casi 110 horas mantienen su promedio en 70 puntos, y los estudiantes con un promedio de casi 115 horas de estudio se mantiene el 73 puntos.
 
 ## Conclusion
 

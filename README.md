@@ -1,6 +1,6 @@
 # Analisis del rendimiento academico de estudiantes
-**Proyecto Final** . **Autor:** Micaela Sanchez . **Curso:**Herramientas basicas para el analisis de datos . **Cohorte:**2026
-## Introduccion:
+**Proyecto Final**.**Autor: ** Micaela Sanchez.**Curso: **Herramientas basicas para el analisis de datos.**Cohorte: **2026
+## Introduccion
 
  Este proyecto lleva a cabo un profundo analisis sobre los factores que pueden ser determinantes para el rendimiento academico. Dicho analisis se lleva a cabo utilizando Python, Google Colab con realizaciones de visualiaciones con graficos en Power BI.
  
